@@ -58,7 +58,20 @@
 * [amenity.py](/models/amenity.py) - class Amenity
 * [`__init__.py`](/models/__init__.py) - initialization code for Python package models
 * [tests](/tests/) - unit test files
-* [web_static](/web_static/103-index.html) - HTML and CSS files
+* [web_static](/web_static/) - HTML and CSS files
+  * [0-index.html](/web_static/0-index.html) - Task 0. Inline styling
+  * [1-index.html](/web_static/1-index.html) - Task 1. Head styling
+  * [2-index.html](/web_static/2-index.html) - Task 2. CSS files
+  * [3-index.html](/web_static/3-index.html) - Task 3. Zoning done!
+  * [4-index.html](/web_static/4-index.html) - Task 4. Search!
+  * [5-index.html](/web_static/5-index.html) - Task 5. More filters
+  * [6-index.html](/web_static/6-index.html) - Task 6. It's (h)over
+  * [7-index.html](/web_static/7-index.html) - Task 7. Display results
+  * [8-index.html](/web_static/8-index.html) - Task 8. More details
+  * [100-index.html](/web_static/100-index.html) - Task 9. Full details
+  * [101-index.html](/web_static/101-index.html) - Task 10. Flex
+  * [102-index.html](/web_static/102-index.html) - Task 11. Responsive design
+  * [103-index.html](/web_static/103-index.html) - Task 12. Accessibility
 
 ### Execution
 
