@@ -58,6 +58,7 @@
 * [amenity.py](/models/amenity.py) - class Amenity
 * [`__init__.py`](/models/__init__.py) - initialization code for Python package models
 * [tests](/tests/) - unit test files
+* [web_static](/web_static) - HTML and CSS files
 
 ### Execution
 
